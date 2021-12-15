@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "78e97afa-4c71-489b-8fa0-fc55720fc99e": {
+      "ProjectGuid": "78e97afa-4c71-489b-8fa0-fc55720fc99e",
+      "DisplayName": "JwtAuthExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
